@@ -3,4 +3,6 @@ yomeat
 
 Get a yo when mentioned on meatspace
 
-To use simply copy config.sample.json, fill in all the information with your info, and run index.js
+1. cp config.sample.json config.json
+2. update config.json with your data [see yoplait docs for info]
+3. Run app.js
